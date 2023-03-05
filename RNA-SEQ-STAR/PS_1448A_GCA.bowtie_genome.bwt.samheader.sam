@@ -1,0 +1,5 @@
+@HD	VN:1.0	SO:coordinate
+@SQ	SN:CP000058.1	LN:5928787
+@SQ	SN:CP000059.1	LN:131950
+@SQ	SN:CP000060.1	LN:51711
+@PG	ID:TopHat	VN:2.1.1	CL:/home/xindeng/Public/tools/tophat-2.1.1.Linux_x86_64/tophat -p 8 -o /diskd/xindeng/PS_network/20181016_sra/data/aligned/SRR8200072 --no-novel-juncs -G /home/xindeng/Public/Workplaces/ref_all/PS_1448A_GCA/PS_1448A_GCA.gff /home/xindeng/Public/Workplaces/ref_all/PS_1448A_GCA/PS_1448A_GCA.bowtie /diskd/xindeng/PS_network/20181016_sra/data/trimmed/SRR8200072/SRR8200072_val_1.fq /diskd/xindeng/PS_network/20181016_sra/data/trimmed/SRR8200072/SRR8200072_val_2.fq -N 2 -g 1
