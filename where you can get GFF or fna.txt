@@ -1,2 +1,2 @@
 Pseudomonas_savastanoi_pv_phaseolicola_1448A
-You can get the genome information form NCBI or http://pseudomonas.com/
+You can get the genome information from NCBI：https://www.ncbi.nlm.nih.gov/data-hub/genome/GCF_000012205.1/ or http://pseudomonas.com/
